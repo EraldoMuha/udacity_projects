@@ -1,3 +1,2 @@
 # udacity_projects
-This is the famous Rock Paper Scissors Game written in Python.
-The Human Player will play against a Computer Player that will switch between three type of strategies (last move, random move, cycle move).
+This Repository is dedicated for my Udacity Nanodegree Projects. These Projects are requested by Udacity, to test your skills, and a must to obtain the Degree and get verified by their Partners for the related job field.
